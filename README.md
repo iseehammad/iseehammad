@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iseehammad
 - 👀 I’m interested in coding for developing solutions of real world problems.
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Java/C/C++
 - 📫 How to reach me  hammad.khokharr@hotmail.com /+923116800344
 
 
