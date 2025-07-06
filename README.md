@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **University Project.**
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **Java/C/C++**
 
 - 👯 I’m looking to collaborate on **more projects.**
 
