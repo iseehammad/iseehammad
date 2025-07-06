@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @iseehammad
-- 👀 I’m interested in coding for developing solutions of real world problems.
-- 🌱 I’m currently learning Java/C/C++
-- 📫 How to reach me  hammad.khokharr@hotmail.com /+923116800344
-
 
 <h1 align="center">Hi 👋, I'm Hammad Khokhar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
@@ -17,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **more projects.**
 
-- 🤝 I’m looking for help with **good programmers**
+- 👀 I’m interested in coding for developing solutions of real world problems.
 
-- 📫 How to reach me **hammad.khokharr@hotmail.com**
+- 📫 How to reach me **hammad.khokharr@hotmail.com/+923116800344**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
